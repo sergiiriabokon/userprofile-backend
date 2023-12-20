@@ -1,1 +1,3 @@
 UserProfile backend
+
+Database connection settings are configured in user.model.js file
